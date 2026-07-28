@@ -1,0 +1,6 @@
+{
+  "name": "විශේෂ විමර්ශන ශාඛාව දත්ත පද්ධතිය (SLCMP SIB Data System)",
+  "description": "විශේෂ විමර්ශන ශාඛාව - 1 වන යුද්ධ හමුදා පොලිස් හේවා බලකාය සඳහා දත්ත කළමනාකරණ පද්ධතිය",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
